@@ -20,5 +20,4 @@ else
      echo "{$_POST['username']} is now added to the database";
 }
 $mysqli->close();
-echo "<br><button onclick='window.history.back();'>Back</button>";
 ?>
